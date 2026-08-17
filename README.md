@@ -128,6 +128,4 @@ Professional Power BI dashboard analyzing $8.68M Coca-Cola sales across 17M unit
 - **Growth Trends**: Month-over-month performance changes
 - **Retailer Performance**: Top and bottom performers ranked
 
----
 
-## 📁 Project Files
